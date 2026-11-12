@@ -6,6 +6,9 @@ Backend de una aplicación de chat en tiempo real desarrollada con **Node.js, Ex
 
 El servidor gestiona la conexión entre los usuarios y la comunicación de mensajes en tiempo real mediante WebSockets. El proyecto también contempla el uso de Firebase para el almacenamiento de datos.
 
+🚀 Demo
+https://poised-charo-frpln-f8bf6475.koyeb.app/
+
 ## 🛠️ Tecnologías utilizadas
 
 - **Node.js:** entorno de ejecución de JavaScript en el servidor.
